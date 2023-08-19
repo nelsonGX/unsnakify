@@ -1,5 +1,5 @@
 # unsnakify
-Auto-writing Snakify by Python.
+Auto-writing Snakify.org by Python.
 # How to use
 1. install `requests`  
 ```
